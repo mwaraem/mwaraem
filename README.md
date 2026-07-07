@@ -2,4 +2,4 @@
 
 I'm Emmanuel.
 ✨ Web developer and bug bounty hunter based in Nairobi, Kenya
-📫 Commercial Pilot with a passion for ethical hacking, cybersecurity and web development
+📫 Commercial Pilot with a passion for frontend development and cybersecurity.
