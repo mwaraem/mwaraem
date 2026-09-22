@@ -1,7 +1,7 @@
 # Hi, I'm Emmanuel 👋
 
-Frontend & Product Engineer based in Nairobi, Kenya. 
-Commercial Pilot background turned developer—bringing high-stakes precision, system-level discipline, and risk management into building web applications.
+Fullstack Engineer(Frontend leaning) based in Nairobi, Kenya. 
+Commercial Pilot background with a passion for development—bringing high-stakes precision, system-level discipline, and risk management into building web applications.
 
 ### 🛠️ Tech Stack & Capabilities
 * **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
