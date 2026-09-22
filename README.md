@@ -5,7 +5,7 @@ Commercial Pilot background with a passion for development—bringing high-stake
 
 ### 🛠️ Tech Stack & Capabilities
 * **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-* **Backend:** Node.js, Express, MongoDB, python, FastAPI
+* **Backend:** Node.js, Express, MongoDB, Python, FastAPI
 * **Architecture & State:** TanStack Query, Redux / Zustand, REST APIs
 * **Focus Areas:** Complex Data Dashboards, UI Security, Real-Time Interfaces
 
