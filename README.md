@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi, I'm Emmanuel 👋
 
-I'm Emmanuel.
-✨ Frontend developer based in Nairobi, Kenya
-📫 Commercial Pilot with a passion for web development and cybersecurity.
+Frontend & Product Engineer based in Nairobi, Kenya. 
+Commercial Pilot background turned developer—bringing high-stakes precision, system-level discipline, and risk management into building web applications.
+
+### 🛠️ Tech Stack & Capabilities
+* **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+* **Architecture & State:** TanStack Query, Redux / Zustand, REST APIs
+* **Focus Areas:** Complex Data Dashboards, UI Security, Real-Time Interfaces
+
+### ✈️ Engineering Meets Aviation
+Piloting taught me strict procedural execution, rapid checklist debugging under pressure, and user safety—mindsets I apply directly to writing type-safe, performant frontend code.
