@@ -10,4 +10,4 @@ Commercial Pilot background with a passion for development—bringing high-stake
 * **Focus Areas:** Complex Data Dashboards, UI Security, Real-Time Interfaces
 
 ### ✈️ Engineering Meets Aviation
-Piloting taught me strict procedural execution, rapid checklist debugging under pressure, and user safety—mindsets I apply directly to writing type-safe, performant frontend code.
+Piloting has taught me strict procedural execution, rapid checklist debugging under pressure, and user safety—mindsets I apply directly to writing type-safe, performant code.
