@@ -1,13 +1,50 @@
 # Hi, I'm Emmanuel 👋
 
-Fullstack Engineer(Frontend leaning) based in Nairobi, Kenya. 
-Commercial Pilot background with a passion for development—bringing high-stakes precision, system-level discipline, and risk management into building web applications.
+**Penetration Testing | Offensive Security | Web & API Security**
 
-### 🛠️ Tech Stack & Capabilities
-* **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
-* **Backend:** Node.js, Express, MongoDB, Python, FastAPI
-* **Architecture & State:** TanStack Query, Redux / Zustand, REST APIs
-* **Focus Areas:** Complex Data Dashboards, UI Security, Real-Time Interfaces
+I'm a security enthusiast based in Nairobi, Kenya, focused on penetration testing, vulnerability research, and offensive security with a background as a commercial pilot!
 
-### ✈️ Engineering Meets Aviation
-Piloting has taught me strict procedural execution, rapid checklist debugging under pressure, and user safety—mindsets I apply directly to writing type-safe, performant code.
+My background in software engineering gives me an understanding of how applications are designed, developed, and deployed — knowledge I apply when identifying security weaknesses in web applications, APIs, and underlying systems.
+
+I'm currently expanding my practical penetration testing experience through Hack The Box, TryHackMe, and hands-on security research while preparing for the **OffSec Certified Professional (OSCP)** certification.
+
+## 🔐 Security Focus Areas
+
+- Web Application Penetration Testing
+- API Security Assessment
+- Linux & Windows Privilege Escalation
+- Network Enumeration & Exploitation
+- Authentication & Authorization Vulnerabilities
+- Vulnerability Analysis and Reporting
+
+## 🛠️ Technical Toolkit
+
+**Security:** Burp Suite, Nmap, Metasploit, Wireshark, Gobuster
+
+**Operating Systems:** Kali Linux, Ubuntu, Windows
+
+**Programming & Scripting:** Python, Bash, JavaScript
+
+**Development Background:** React, Node.js, Express, MongoDB, REST APIs
+
+## 🧪 Practical Experience
+
+- TryHackMe — Top 2% globally
+- Hack The Box — Actively developing practical penetration testing experience
+- Hands-on exploitation, enumeration, and privilege escalation labs
+- Documenting methodologies, findings, and technical walkthroughs
+
+## 📂 Security Portfolio
+
+My repositories contain practical security research, lab documentation, penetration testing methodologies, custom scripts, and technical write-ups.
+
+## 🎯 Current Objectives
+
+- Preparing for the OSCP certification.
+- Building a comprehensive Hack The Box portfolio.
+- Developing practical web and API penetration testing skills.
+- Documenting real-world penetration testing methodologies.
+
+---
+
+*Combining software engineering knowledge with offensive security to understand, identify, and exploit vulnerabilities.*
